@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExam", "DotNetExam\DotNetExam.csproj", "{4A60CAA1-0CB5-45F3-A5EF-D0BC6ED96842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{3F71D508-79CD-42FB-9E8A-33DD7470B520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A60CAA1-0CB5-45F3-A5EF-D0BC6ED96842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A60CAA1-0CB5-45F3-A5EF-D0BC6ED96842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A60CAA1-0CB5-45F3-A5EF-D0BC6ED96842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A60CAA1-0CB5-45F3-A5EF-D0BC6ED96842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F71D508-79CD-42FB-9E8A-33DD7470B520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F71D508-79CD-42FB-9E8A-33DD7470B520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F71D508-79CD-42FB-9E8A-33DD7470B520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F71D508-79CD-42FB-9E8A-33DD7470B520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F808B2FB-F393-4218-9C66-B202C1EC4207}
+	EndGlobalSection
+EndGlobal
